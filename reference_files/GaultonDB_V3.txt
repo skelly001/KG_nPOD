@@ -1,0 +1,547 @@
+Ligand	Mode of Action	Signaling	Functional classification	Functional.sub.classification	Gene.Family
+ANGPT1	Secreted Signaling	Growth Factors & Cytokines	Angiopoietins	Angiopoietins	Angiopoietin family
+ANGPT2	Secreted Signaling	Growth Factors & Cytokines	Angiopoietins	Angiopoietins	Angiopoietin family
+ANGPTL1	Secreted Signaling	Growth Factors & Cytokines	Angiopoietins	Angiopoietins	Angiopoietin-like protein family
+ANGPTL2	Secreted Signaling	Growth Factors & Cytokines	Angiopoietins	Angiopoietins	Angiopoietin-like protein family
+ANGPTL3	Secreted Signaling	Growth Factors & Cytokines	Angiopoietins	Angiopoietins	Angiopoietin-like protein family
+ANGPTL4	Secreted Signaling	Growth Factors & Cytokines	Angiopoietins	Angiopoietins	Angiopoietin-like protein family
+ANGPTL7	Secreted Signaling	Growth Factors & Cytokines	Angiopoietins	Angiopoietins	Angiopoietin-like protein family
+CD1D	Cell-Cell Contact	Immune	Antigen Presentation	MHC - like	CD Family
+HLA-A	Cell-Cell Contact	Immune	Antigen Presentation	MHC Class I	HLA Family
+HLA-B	Cell-Cell Contact	Immune	Antigen Presentation	MHC Class I	HLA Family
+HLA-C	Cell-Cell Contact	Immune	Antigen Presentation	MHC Class I	HLA Family
+HLA-E	Cell-Cell Contact	Immune	Antigen Presentation	MHC Class I	HLA Family
+HLA-F	Cell-Cell Contact	Immune	Antigen Presentation	MHC Class I	HLA Family
+HLA-G	Cell-Cell Contact	Immune	Antigen Presentation	MHC Class I	HLA Family
+HLA-DPA1	Cell-Cell Contact	Immune	Antigen Presentation	MHC Class II	HLA Family
+HLA-DPB1	Cell-Cell Contact	Immune	Antigen Presentation	MHC Class II	HLA Family
+HLA-DQA1	Cell-Cell Contact	Immune	Antigen Presentation	MHC Class II	HLA Family
+HLA-DMA	Cell-Cell Contact	Immune	Antigen Presentation	MHC Class II	HLA Family
+HLA-DMB	Cell-Cell Contact	Immune	Antigen Presentation	MHC Class II	HLA Family
+HLA-DQA2	Cell-Cell Contact	Immune	Antigen Presentation	MHC Class II	HLA Family
+HLA-DOA	Cell-Cell Contact	Immune	Antigen Presentation	MHC Class II	HLA Family
+HLA-DOB	Cell-Cell Contact	Immune	Antigen Presentation	MHC Class II	HLA Family
+HLA-DQB1	Cell-Cell Contact	Immune	Antigen Presentation	MHC Class II	HLA Family
+HLA-DRA	Cell-Cell Contact	Immune	Antigen Presentation	MHC Class II	HLA Family
+HLA-DRB1	Cell-Cell Contact	Immune	Antigen Presentation	MHC Class II	HLA Family
+HLA-DRB3	Cell-Cell Contact	Immune	Antigen Presentation	MHC Class II	HLA Family
+HLA-DRB4	Cell-Cell Contact	Immune	Antigen Presentation	MHC Class II	HLA Family
+HLA-DRB5	Cell-Cell Contact	Immune	Antigen Presentation	MHC Class II	HLA Family
+BMP10	Secreted Signaling	Growth Factors & Cytokines	BMPs	BMPs	BMP Family
+BMP15	Secreted Signaling	Growth Factors & Cytokines	BMPs	BMPs	BMP Family
+BMP4	Secreted Signaling	Growth Factors & Cytokines	BMPs	BMPs	BMP Family
+BMP8A	Secreted Signaling	Growth Factors & Cytokines	BMPs	BMPs	BMP Family
+BMP8B	Secreted Signaling	Growth Factors & Cytokines	BMPs	BMPs	BMP Family
+CDH15	Cell-Cell Contact	CAM	Cadherins	Cadherins	Cadherin Family
+CDH4	Cell-Cell Contact	CAM	Cadherins	Cadherins	Cadherin Family
+CDH2	Cell-Cell Contact	CAM	Cadherins	Cadherins	Cadherin Family
+CDH1	Cell-Cell Contact	CAM	Cadherins	Cadherins	Cadherin Family
+CDH5	Cell-Cell Contact	CAM	Cadherins	Cadherins	Cadherin Family
+CCL1	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	CC Chemokine Subfamily
+CCL11	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	CC Chemokine Subfamily
+CCL13	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	CC Chemokine Subfamily
+CCL14	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	CC Chemokine Subfamily
+CCL15	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	CC Chemokine Subfamily
+CCL16	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	CC Chemokine Subfamily
+CCL17	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	CC Chemokine Subfamily
+CCL18	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	CC Chemokine Subfamily
+CCL19	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	CC Chemokine Subfamily
+CCL2	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	CC Chemokine Subfamily
+CCL20	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	CC Chemokine Subfamily
+CCL21	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	CC Chemokine Subfamily
+CCL22	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	CC Chemokine Subfamily
+CCL23	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	CC Chemokine Subfamily
+CCL24	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	CC Chemokine Subfamily
+CCL25	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	CC Chemokine Subfamily
+CCL26	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	CC Chemokine Subfamily
+CCL27	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	CC Chemokine Subfamily
+CCL28	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	CC Chemokine Subfamily
+CCL3	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	CC Chemokine Subfamily
+CCL3L1	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	CC Chemokine Subfamily
+CCL3L3	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	CC Chemokine Subfamily
+CCL4	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	CC Chemokine Subfamily
+CCL5	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	CC Chemokine Subfamily
+CCL7	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	CC Chemokine Subfamily
+CCL8	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	CC Chemokine Subfamily
+CX3CL1	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	C-X-C Motif Chemokine Ligand Family
+CXCL1	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	C-X-C Motif Chemokine Ligand Family
+CXCL10	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	C-X-C Motif Chemokine Ligand Family
+CXCL11	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	C-X-C Motif Chemokine Ligand Family
+CXCL12	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	C-X-C Motif Chemokine Ligand Family
+CXCL13	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	C-X-C Motif Chemokine Ligand Family
+CXCL16	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	C-X-C Motif Chemokine Ligand Family
+CXCL2	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	C-X-C Motif Chemokine Ligand Family
+CXCL3	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	C-X-C Motif Chemokine Ligand Family
+CXCL5	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	C-X-C Motif Chemokine Ligand Family
+CXCL6	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	C-X-C Motif Chemokine Ligand Family
+CXCL8	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	C-X-C Motif Chemokine Ligand Family
+CXCL9	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	C-X-C Motif Chemokine Ligand Family
+PF4	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	C-X-C Motif Chemokine Ligand Family
+PF4V1	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	C-X-C Motif Chemokine Ligand Family
+PPBP	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	C-X-C Motif Chemokine Ligand Family
+RARRES2	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	Chemerin Family
+XCL1	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	XC Class Chemokines
+XCL2	Secreted Signaling	Growth Factors & Cytokines	Chemokines	Chemokines	XC Class Chemokines
+COL1A1	ECM-Receptor	ECM	Collagens	Collagens	Collagen Family
+COL1A2	ECM-Receptor	ECM	Collagens	Collagens	Collagen Family
+COL2A1	ECM-Receptor	ECM	Collagens	Collagens	Collagen Family
+COL4A1	ECM-Receptor	ECM	Collagens	Collagens	Collagen Family
+COL4A2	ECM-Receptor	ECM	Collagens	Collagens	Collagen Family
+COL4A3	ECM-Receptor	ECM	Collagens	Collagens	Collagen Family
+COL4A4	ECM-Receptor	ECM	Collagens	Collagens	Collagen Family
+COL4A5	ECM-Receptor	ECM	Collagens	Collagens	Collagen Family
+COL4A6	ECM-Receptor	ECM	Collagens	Collagens	Collagen Family
+COL6A1	ECM-Receptor	ECM	Collagens	Collagens	Collagen Family
+COL6A2	ECM-Receptor	ECM	Collagens	Collagens	Collagen Family
+COL6A3	ECM-Receptor	ECM	Collagens	Collagens	Collagen Family
+COL6A5	ECM-Receptor	ECM	Collagens	Collagens	Collagen Family
+COL6A6	ECM-Receptor	ECM	Collagens	Collagens	Collagen Family
+COL9A1	ECM-Receptor	ECM	Collagens	Collagens	Collagen Family
+COL9A2	ECM-Receptor	ECM	Collagens	Collagens	Collagen Family
+COL9A3	ECM-Receptor	ECM	Collagens	Collagens	Collagen Family
+C3	Secreted Signaling	Immune	Complement System	Complement Component	Complement Component Family
+C4A	Secreted Signaling	Immune	Complement System	Complement Component	Complement Component Family
+C5	Secreted Signaling	Immune	Complement System	Complement Component	Complement Component Family
+CSF2	Secreted Signaling	Growth Factors & Cytokines	CSFs	Colony-Stimulating Factors	GM-CSF Family
+CSF1	Secreted Signaling	Growth Factors & Cytokines	CSFs	Colony-Stimulating Factors	Colony stimulating factor family
+CSF3	Secreted Signaling	Growth Factors & Cytokines	CSFs	Colony-Stimulating Factors	Colony stimulating factor family
+FLT3LG	Secreted Signaling	Growth Factors & Cytokines	CSFs	Colony-Stimulating Factors	Hematopoietic growth factor family
+DSC1	Cell-Cell Contact	CAM	Desmosome	Desmosomal Proteins	Desmosome Family
+DSC2	Cell-Cell Contact	CAM	Desmosome	Desmosomal Proteins	Desmosome Family
+DSG1	Cell-Cell Contact	CAM	Desmosome	Desmosomal Proteins	Desmosome Family
+DSG2	Cell-Cell Contact	CAM	Desmosome	Desmosomal Proteins	Desmosome Family
+EDN1	Secreted Signaling	Growth Factors & Cytokines	Endothelins	Endothelins	Endothelin family
+EDN2	Secreted Signaling	Growth Factors & Cytokines	Endothelins	Endothelins	Endothelin family
+EDN3	Secreted Signaling	Growth Factors & Cytokines	Endothelins	Endothelins	Endothelin family
+EFNA1	Cell-Cell Contact	Developmental	Ephrins	Ephrin Signaling	Ephrins
+EFNA2	Cell-Cell Contact	Developmental	Ephrins	Ephrin Signaling	Ephrins
+EFNA3	Cell-Cell Contact	Developmental	Ephrins	Ephrin Signaling	Ephrins
+EFNA4	Cell-Cell Contact	Developmental	Ephrins	Ephrin Signaling	Ephrins
+EFNA5	Cell-Cell Contact	Developmental	Ephrins	Ephrin Signaling	Ephrins
+EFNB1	Cell-Cell Contact	Developmental	Ephrins	Ephrin Signaling	Ephrins
+EFNB2	Cell-Cell Contact	Developmental	Ephrins	Ephrin Signaling	Ephrins
+EFNB3	Cell-Cell Contact	Developmental	Ephrins	Ephrin Signaling	Ephrins
+EPGN	Secreted Signaling	Growth Factors & Cytokines	Epidermal GFs	Epidermal Growth Factors	EGF Family
+TGFA	Secreted Signaling	Growth Factors & Cytokines	Epidermal GFs	Epidermal Growth Factors	EGF Family
+AREG	Secreted Signaling	Growth Factors & Cytokines	Epidermal GFs	Epidermal Growth Factors	EGF Family
+BTC	Secreted Signaling	Growth Factors & Cytokines	Epidermal GFs	Epidermal Growth Factors	EGF Family
+EGF	Secreted Signaling	Growth Factors & Cytokines	Epidermal GFs	Epidermal Growth Factors	EGF Family
+EREG	Secreted Signaling	Growth Factors & Cytokines	Epidermal GFs	Epidermal Growth Factors	EGF Family
+HBEGF	Secreted Signaling	Growth Factors & Cytokines	Epidermal GFs	Epidermal Growth Factors	EGF Family
+FGF1	Secreted Signaling	Growth Factors & Cytokines	Fibroblast GFs	Fibroblast Growth Factors	FGF Family
+FGF10	Secreted Signaling	Growth Factors & Cytokines	Fibroblast GFs	Fibroblast Growth Factors	FGF Family
+FGF16	Secreted Signaling	Growth Factors & Cytokines	Fibroblast GFs	Fibroblast Growth Factors	FGF Family
+FGF17	Secreted Signaling	Growth Factors & Cytokines	Fibroblast GFs	Fibroblast Growth Factors	FGF Family
+FGF18	Secreted Signaling	Growth Factors & Cytokines	Fibroblast GFs	Fibroblast Growth Factors	FGF Family
+FGF19	Secreted Signaling	Growth Factors & Cytokines	Fibroblast GFs	Fibroblast Growth Factors	FGF Family
+FGF2	Secreted Signaling	Growth Factors & Cytokines	Fibroblast GFs	Fibroblast Growth Factors	FGF Family
+FGF20	Secreted Signaling	Growth Factors & Cytokines	Fibroblast GFs	Fibroblast Growth Factors	FGF Family
+FGF21	Secreted Signaling	Growth Factors & Cytokines	Fibroblast GFs	Fibroblast Growth Factors	FGF Family
+FGF22	Secreted Signaling	Growth Factors & Cytokines	Fibroblast GFs	Fibroblast Growth Factors	FGF Family
+FGF23	Secreted Signaling	Growth Factors & Cytokines	Fibroblast GFs	Fibroblast Growth Factors	FGF Family
+FGF3	Secreted Signaling	Growth Factors & Cytokines	Fibroblast GFs	Fibroblast Growth Factors	FGF Family
+FGF4	Secreted Signaling	Growth Factors & Cytokines	Fibroblast GFs	Fibroblast Growth Factors	FGF Family
+FGF5	Secreted Signaling	Growth Factors & Cytokines	Fibroblast GFs	Fibroblast Growth Factors	FGF Family
+FGF6	Secreted Signaling	Growth Factors & Cytokines	Fibroblast GFs	Fibroblast Growth Factors	FGF Family
+FGF7	Secreted Signaling	Growth Factors & Cytokines	Fibroblast GFs	Fibroblast Growth Factors	FGF Family
+FGF8	Secreted Signaling	Growth Factors & Cytokines	Fibroblast GFs	Fibroblast Growth Factors	FGF Family
+FGF9	Secreted Signaling	Growth Factors & Cytokines	Fibroblast GFs	Fibroblast Growth Factors	FGF Family
+ARTN	Secreted Signaling	Growth Factors & Cytokines	GDNFs	GDNF Family	GDNF family of ligands
+GDNF	Secreted Signaling	Growth Factors & Cytokines	GDNFs	GDNF Family	GDNF family of ligands
+NRTN	Secreted Signaling	Growth Factors & Cytokines	GDNFs	GDNF Family	GDNF family of ligands
+PSPN	Secreted Signaling	Growth Factors & Cytokines	GDNFs	GDNF Family	GDNF family of ligands
+DHH	Secreted Signaling	Developmental	Hedgehog	Hedgehog Signaling	Hedgehog Family
+IHH	Secreted Signaling	Developmental	Hedgehog	Hedgehog Signaling	Hedgehog Family
+SHH	Secreted Signaling	Developmental	Hedgehog	Hedgehog Signaling	Hedgehog Family
+RETN	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Adipose Tissue)	Resistin Family
+NPPC	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Brain)	Natriuretic Peptide Family
+PTH2	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Brain)	Parathyroid Hormone Family
+INSL5	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Colon)	Insulin-Like Family
+NPPA	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Heart)	Natriuretic Peptide Family
+NPPB	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Heart)	Natriuretic Peptide Family
+UCN2	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Heart)	Urocortin Family
+EPO	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Kidney)	Erythropoietin Family
+AGT	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Liver)	Angiotensinogen Family
+IGF2	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Liver)	Insulin-Like Growth Factor Family
+THPO	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Liver)	Thrombopoietin Family
+OSTN	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Musculoskeletal System)	Osteocrin Family
+GCG	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Pancreas)	Glucagon Family
+IAPP	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Pancreas)	Amylin Family
+INS	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Pancreas)	Insulin Family
+PPY	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Pancreas)	Pancreatic Polypeptide Family
+SST	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Pancreas)	Somatostatin Family
+PTH	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Parathyroid Gland)	Parathyroid Hormone Family
+CGA	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Pituitary Gland)	"Glycoprotein Hormones, Alpha Polypeptide Family"
+FSHB	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Pituitary Gland)	Gonadotropin Family
+GH1	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Pituitary Gland)	Growth Hormone Family
+LHB	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Pituitary Gland)	Gonadotropin Family
+POMC	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Pituitary Gland)	Pro-Opiomelanocortin Family
+PRL	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Pituitary Gland)	Prolactin Family
+TSHB	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Pituitary Gland)	Thyrotropin Family
+CCK	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Small Intestine)	Cholecystokinin Family
+GAL	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Small Intestine)	Galanin Family
+GIP	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Small Intestine)	Gastric Inhibitory Polypeptide Family
+NMB	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Small Intestine)	Bombesin-Like Peptide Family
+PYY	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Small Intestine)	Pancreatic Polypeptide Family
+VIP	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Small Intestine)	Vasoactive Intestinal Peptide Family
+GHRL	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Stomach)	Ghrelin Family
+INSL3	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Testis)	Insulin-Like Family
+SCT	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Thyroid Gland)	Secretin Family
+RLN1	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Uterus)	Relaxin/Insulin-Like Family
+UTS2	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Various Tissues)	Urotensin II Family
+UTS2B	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Various Tissues)	Urotensin II Family
+PTHLH	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Various Tissues)	Parathyroid Hormone Family
+ENHO	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone-like (Adipose Tissue)	Energy Homeostasis Associated Protein Family
+ADM	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Heart)	Adrenomedullin Family
+APELA	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Heart)	Apelin Family
+APLN	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone (Heart)	Apelin Family
+CALCA	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone-like (Thyroid)	Calcitonin Family
+CALCB	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone-like (Thyroid)	Calcitonin Family
+GUCA2A	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone like (Gut)	Guanylate Cyclase Activator Family
+GUCA2B	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone like (Gut)	Guanylate Cyclase Activator Family
+GHRH	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone/Neuropeptide (Hypothalamus)	Growth Hormone-Releasing Hormone Family
+GNRH1	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone/Neuropeptide (Hypothalamus)	Gonadotropin-Releasing Hormone Family
+PRLH	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone/Neuropeptide (Hypothalamus)	Prolactin-Releasing Hormone Family
+TRH	Secreted Signaling	Hormones & Neuropeptides	Hormone	Hormone/Neuropeptide (Hypothalamus)	Thyrotropin-Releasing Hormone Family
+AVP	Secreted Signaling	Hormones & Neuropeptides	Hormone/Neuropeptide	Hormone/Neuropeptide (Hypothalamus)	Vasopressin Family
+OXT	Secreted Signaling	Hormones & Neuropeptides	Hormone/Neuropeptide	Hormone/Neuropeptide (Hypothalamus)	Oxytocin Family
+ADCYAP1	Secreted Signaling	Hormones & Neuropeptides	Hormone/Neuropeptide	Other	PACAP Family
+LCK	Cell-Cell Contact	Immune	Immune regulators	Protein Tyrosine Kinase	src family of PTKs
+PTPRC	Cell-Cell Contact	Immune	Immune regulators	Protein Tyrosine Phosphatases	CD Family
+PTPRM	Cell-Cell Contact	Immune	Immune regulators	Receptor-type Tyrosine-protein Phosphatase	src family of PTKs
+CD46	Cell-Cell Contact	Immune	Immune regulators	Complement Regulators	CD Family
+CD8A	Cell-Cell Contact	Immune	Immune regulators	Immune Modulators	CD Family
+CLEC2D	Cell-Cell Contact	Immune	Immune regulators	Immune Modulators	CLEC Family
+CLEC2A	Cell-Cell Contact	Immune	Immune regulators	Immune Modulators	CLEC Family
+CLEC2B	Cell-Cell Contact	Immune	Immune regulators	Immune Modulators	CLEC Family
+CLEC2L	Cell-Cell Contact	Immune	Immune regulators	Immune Modulators	CLEC Family
+CLEC1B	Cell-Cell Contact	Immune	Immune regulators	Immune Modulators	CLEC Family
+LGALS9	Cell-Cell Contact	Immune	Immune regulators	Immune Modulators	Galectin Family
+FCER2	Cell-Cell Contact	Immune	Immune regulators	Immune Modulators	Receptor-type tyrosine-protein phosphatases
+VSIR	Cell-Cell Contact	Immune	Immune regulators	Inhibitory Molecules	CD Family
+CEACAM1	Cell-Cell Contact	Immune	Immune regulators	Inhibitory Molecules	CD Family
+CD274	Cell-Cell Contact	Immune	Immune regulators	Inhibitory Molecules	CD Family
+TIGIT	Cell-Cell Contact	Immune	Immune regulators	Inhibitory Molecules	B7 Family
+BTLA	Cell-Cell Contact	Immune	Immune regulators	Inhibitory Molecules	B7 Family
+PDCD1LG2	Cell-Cell Contact	Immune	Immune regulators	Inhibitory Molecules	Epithelial growth factors
+CD22	Cell-Cell Contact	Immune	Immune regulators	Inhibitory Molecules	IgCAMs
+CD48	Cell-Cell Contact	Immune	Immune regulators	Stimulatory Molecules	CD Family
+CD6	Cell-Cell Contact	Immune	Immune regulators	Stimulatory Molecules	CD Family
+CD80	Cell-Cell Contact	Immune	Immune regulators	Stimulatory Molecules	CD Family
+CD86	Cell-Cell Contact	Immune	Immune regulators	Stimulatory Molecules	CD Family
+CD69	Cell-Cell Contact	Immune	Immune regulators	Stimulatory Molecules	CD Family
+ICOSLG	Cell-Cell Contact	Immune	Immune regulators	Stimulatory Molecules	CD Family
+ULBP1	Cell-Cell Contact	Immune	Immune regulators	Stimulatory Molecules	ULBP Family
+RAET1E	Cell-Cell Contact	Immune	Immune regulators	Stimulatory Molecules	RAET1 Family
+RAET1G	Cell-Cell Contact	Immune	Immune regulators	Stimulatory Molecules	RAET1 Family
+RAET1F	Cell-Cell Contact	Immune	Immune regulators	Stimulatory Molecules	RAET1 Family
+SAA1	Secreted Signaling	Immune	Immune regulators	Acute Phase Response Modulator	Serum Amyloid A1 Family
+ANXA1	Secreted Signaling	Immune	Immune regulators	Anti-inflammatory Modulator	Annexin Family
+KNG1	Secreted Signaling	Immune	Immune regulators	Kininogen Precursor	Kininogen Family
+BAG6	Secreted Signaling	Immune	Immune regulators	Protein Homeostasis Modulator	BCL2 Associated Athanogene 6 Family
+IGF1	Secreted Signaling	Growth Factors & Cytokines	Insulin-like GFs	Insulin-like Growth Factors	Insulin-like growth factor
+IGFL3	Secreted Signaling	Growth Factors & Cytokines	Insulin-like GFs	Insulin-like Growth Factors	Insulin-like growth factor
+ITGA4_ITGB1	Cell-Cell Contact	CAM	Integrins	Integrins	Integrin Family
+ITGA9_ITGB1	Cell-Cell Contact	CAM	Integrins	Integrins	Integrin Family
+ITGA4_ITGB7	Cell-Cell Contact	CAM	Integrins	Integrins	Integrin Family
+ITGB2	Cell-Cell Contact	CAM	Integrins	Integrins	Integrin Family
+ICAM1	Cell-Cell Contact	CAM	Intercellular Adhesion	Intercellular Adhesion Proteins	Ig Superfamily
+ICAM2	Cell-Cell Contact	CAM	Intercellular Adhesion	Intercellular Adhesion Proteins	Ig Superfamily
+ICAM5	Cell-Cell Contact	CAM	Intercellular Adhesion	Intercellular Adhesion Proteins	Ig Superfamily
+IFNA1	Secreted Signaling	Growth Factors & Cytokines	Interferons	Interferons	Type I Interferons
+IFNA10	Secreted Signaling	Growth Factors & Cytokines	Interferons	Interferons	Type I Interferons
+IFNA13	Secreted Signaling	Growth Factors & Cytokines	Interferons	Interferons	Type I Interferons
+IFNA14	Secreted Signaling	Growth Factors & Cytokines	Interferons	Interferons	Type I Interferons
+IFNA16	Secreted Signaling	Growth Factors & Cytokines	Interferons	Interferons	Type I Interferons
+IFNA17	Secreted Signaling	Growth Factors & Cytokines	Interferons	Interferons	Type I Interferons
+IFNA2	Secreted Signaling	Growth Factors & Cytokines	Interferons	Interferons	Type I Interferons
+IFNA21	Secreted Signaling	Growth Factors & Cytokines	Interferons	Interferons	Type I Interferons
+IFNA4	Secreted Signaling	Growth Factors & Cytokines	Interferons	Interferons	Type I Interferons
+IFNA5	Secreted Signaling	Growth Factors & Cytokines	Interferons	Interferons	Type I Interferons
+IFNA6	Secreted Signaling	Growth Factors & Cytokines	Interferons	Interferons	Type I Interferons
+IFNA7	Secreted Signaling	Growth Factors & Cytokines	Interferons	Interferons	Type I Interferons
+IFNA8	Secreted Signaling	Growth Factors & Cytokines	Interferons	Interferons	Type I Interferons
+IFNB1	Secreted Signaling	Growth Factors & Cytokines	Interferons	Interferons	Type I Interferons
+IFNE	Secreted Signaling	Growth Factors & Cytokines	Interferons	Interferons	Type I Interferons
+IFNG	Secreted Signaling	Growth Factors & Cytokines	Interferons	Interferons	Type II Interferons
+IFNK	Secreted Signaling	Growth Factors & Cytokines	Interferons	Interferons	Type I Interferons
+IFNW1	Secreted Signaling	Growth Factors & Cytokines	Interferons	Interferons	Type I Interferons
+IL10	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-10 Family
+IL11	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-6 Family
+IL12AB	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-12 Family
+IL13	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	Other Interleukins
+IL15	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-2 Family
+IL16	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	Other Interleukins
+IL17A	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-17 Family
+IL17AF	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-17 Family
+IL17B	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-17 Family
+IL17C	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-17 Family
+IL17F	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-17 Family
+IL18	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-1 Family
+IL19	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-10 Family
+IL1A	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-1 Family
+IL1B	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-1 Family
+IL1F10	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-1 Family
+IL2	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-2 Family
+IL20	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-10 Family
+IL21	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-2 Family
+IL22	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-10 Family
+IL23 complex	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-12 Family
+IL24	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-10 Family
+IL25	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-17 Family
+IL26	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-10 Family
+IL27 complex	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-12 Family
+IL3	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	Other Interleukins
+IL31	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-6 Family
+IL33	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-1 Family
+IL34	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	Interleukin family
+IL36A	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-1 Family
+IL36B	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-1 Family
+IL36G	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-1 Family
+IL36RN	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-1 Family
+IL37	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-1 Family
+IL4	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-2 Family
+IL5	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	Other Interleukins
+IL6	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-6 Family
+IL7	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-2 Family
+IL9	Secreted Signaling	Growth Factors & Cytokines	Interleukins	Interleukins	IL-2 Family
+ESAM	Cell-Cell Contact	CAM	Junctional Adhesion	Junctional Adhesion Proteins	-
+JAM2	Cell-Cell Contact	CAM	Junctional Adhesion	Junctional Adhesion Proteins	Ig Superfamily
+JAM3	Cell-Cell Contact	CAM	Junctional Adhesion	Junctional Adhesion Proteins	Ig Superfamily
+LAMA1	ECM-Receptor	ECM	Laminins	Laminins	Laminin Family
+LAMA2	ECM-Receptor	ECM	Laminins	Laminins	Laminin Family
+LAMA3	ECM-Receptor	ECM	Laminins	Laminins	Laminin Family
+LAMA4	ECM-Receptor	ECM	Laminins	Laminins	Laminin Family
+LAMA5	ECM-Receptor	ECM	Laminins	Laminins	Laminin Family
+LAMB1	ECM-Receptor	ECM	Laminins	Laminins	Laminin Family
+LAMB2	ECM-Receptor	ECM	Laminins	Laminins	Laminin Family
+LAMB3	ECM-Receptor	ECM	Laminins	Laminins	Laminin Family
+LAMC1	ECM-Receptor	ECM	Laminins	Laminins	Laminin Family
+LAMC2	ECM-Receptor	ECM	Laminins	Laminins	Laminin Family
+LAMC3	ECM-Receptor	ECM	Laminins	Laminins	Laminin Family
+CHAD	ECM-Receptor	ECM	Matricellular	Matricellular Proteins	Cartilage Matrix Family
+THBS1	ECM-Receptor	ECM	Matricellular	Matricellular Proteins	Thrombospondins Family
+THBS2	ECM-Receptor	ECM	Matricellular	Matricellular Proteins	Thrombospondins Family
+TNC	ECM-Receptor	ECM	Matricellular	Matricellular Proteins	Tenascin Family
+TNR	ECM-Receptor	ECM	Matricellular	Matricellular Proteins	Tenascin Family
+TNN	ECM-Receptor	ECM	Matricellular	Matricellular Proteins	Tenascin Family
+POSTN	Secreted Signaling	ECM	Matricellular	Matricellular Proteins	Fasciclin Family
+SPP1	Secreted Signaling	Growth Factors & Cytokines	Matricellular	Matricellular Proteins	SIBLINGs
+CNTN2	Cell-Cell Contact	CAM	Neural Cell Adhesion	Neural Cell Adhesion Proteins	Contactin Family
+CNTN1	Cell-Cell Contact	CAM	Neural Cell Adhesion	Neural Cell Adhesion Proteins	Contactin Family
+L1CAM	Cell-Cell Contact	CAM	Neural Cell Adhesion	Neural Cell Adhesion Proteins	Ig Superfamily
+NCAM1	Cell-Cell Contact	CAM	Neural Cell Adhesion	Neural Cell Adhesion Proteins	Ig Superfamily
+NCAM2	Cell-Cell Contact	CAM	Neural Cell Adhesion	Neural Cell Adhesion Proteins	Ig Superfamily
+NRXN1	Cell-Cell Contact	CAM	Neural Cell Adhesion	Neural Cell Adhesion Proteins	Neurexin Family
+NRXN2	Cell-Cell Contact	CAM	Neural Cell Adhesion	Neural Cell Adhesion Proteins	Neurexin Family
+NRXN3	Cell-Cell Contact	CAM	Neural Cell Adhesion	Neural Cell Adhesion Proteins	Neurexin Family
+NRG1	Secreted Signaling	Growth Factors & Cytokines	Neuregulins	Neuregulins	Neuregulin
+NRG2	Secreted Signaling	Growth Factors & Cytokines	Neuregulins	Neuregulins	Neuregulin
+NRG3	Secreted Signaling	Growth Factors & Cytokines	Neuregulins	Neuregulins	Neuregulin
+NRG4	Secreted Signaling	Growth Factors & Cytokines	Neuregulins	Neuregulins	Neuregulin
+CORT	Secreted Signaling	Hormones & Neuropeptides	Neuropeptide	Hormone/Neuropeptide (Adrenal Gland)	Cortistatin Family
+RLN3	Secreted Signaling	Hormones & Neuropeptides	Neuropeptide	Hormone/Neuropeptide (Brain)	Relaxin/Insulin-Like Family
+UCN	Secreted Signaling	Hormones & Neuropeptides	Neuropeptide	Hormone/Neuropeptide (Brain)	Urocortin Family
+UCN3	Secreted Signaling	Hormones & Neuropeptides	Neuropeptide	Hormone/Neuropeptide (Brain)	Urocortin Family
+CRH	Secreted Signaling	Hormones & Neuropeptides	Neuropeptide	Hormone/Neuropeptide (Hypothalamus)	CRH Family
+GALP	Secreted Signaling	Hormones & Neuropeptides	Neuropeptide	Hormone/Neuropeptide (Hypothalamus)	Galanin Family
+HCRT	Secreted Signaling	Hormones & Neuropeptides	Neuropeptide	Hormone/Neuropeptide (Hypothalamus)	Hypocretin (Orexin) Neuropeptide Precursor Family
+NPY	Secreted Signaling	Hormones & Neuropeptides	Neuropeptide	Neuropeptide (Brain)	Neuropeptide Y Family
+NTS	Secreted Signaling	Hormones & Neuropeptides	Neuropeptide	Neuropeptide (Brain)	Neurotensin Family
+PMCH	Secreted Signaling	Hormones & Neuropeptides	Neuropeptide	Neuropeptide (Brain)	Melanin-Concentrating Hormone Family
+QRFP	Secreted Signaling	Hormones & Neuropeptides	Neuropeptide	Neuropeptide (Brain)	Pyroglutamylated RFamide Peptide Family
+GRP	Secreted Signaling	Hormones & Neuropeptides	Neuropeptide	Neuropeptide (Brain)	Gastrin-Releasing Peptide Family
+NMS	Secreted Signaling	Hormones & Neuropeptides	Neuropeptide	Neuropeptide (Brain)	Neuromedin S Family
+NMU	Secreted Signaling	Hormones & Neuropeptides	Neuropeptide	Neuropeptide (Brain)	Neuromedin U Family
+NPB	Secreted Signaling	Hormones & Neuropeptides	Neuropeptide	Neuropeptide (Brain)	Neuropeptide B/W Family
+NPFF	Secreted Signaling	Hormones & Neuropeptides	Neuropeptide	Neuropeptide (Brain)	Neuropeptide FF Family
+NPS	Secreted Signaling	Hormones & Neuropeptides	Neuropeptide	Neuropeptide (Brain)	Neuropeptide S Family
+NPVF	Secreted Signaling	Hormones & Neuropeptides	Neuropeptide	Neuropeptide (Brain)	RFamide Peptide Family
+NPW	Secreted Signaling	Hormones & Neuropeptides	Neuropeptide	Neuropeptide (Brain)	Neuropeptide B/W Family
+PDYN	Secreted Signaling	Hormones & Neuropeptides	Neuropeptide	Neuropeptide (Brain)	Dynorphin Family
+PENK	Secreted Signaling	Hormones & Neuropeptides	Neuropeptide	Neuropeptide (Brain)	Enkephalin Family
+PROK2	Secreted Signaling	Hormones & Neuropeptides	Neuropeptide	Neuropeptide (Brain)	Prokineticin Family
+TAC1	Secreted Signaling	Hormones & Neuropeptides	Neuropeptide	Neuropeptide (Brain)	Tachykinin Family
+TAC3	Secreted Signaling	Hormones & Neuropeptides	Neuropeptide	Neuropeptide (Brain)	Tachykinin Family
+KISS1	Secreted Signaling	Hormones & Neuropeptides	Neuropeptide	Neuropeptide (Brain)	Kisspeptin Family
+TAC4	Secreted Signaling	Hormones & Neuropeptides	Neuropeptide	Neuropeptide (Brain)	Tachykinin Family
+BDNF	Secreted Signaling	Growth Factors & Cytokines	Neurotrophins	Neurotrophins	Neurotrophin
+NGF	Secreted Signaling	Growth Factors & Cytokines	Neurotrophins	Neurotrophins	Nerve growth factor family
+NTF3	Secreted Signaling	Growth Factors & Cytokines	Neurotrophins	Neurotrophins	Neurotrophin
+NTF4	Secreted Signaling	Growth Factors & Cytokines	Neurotrophins	Neurotrophins	Neurotrophin
+DLL1	Cell-Cell Contact	Developmental	Notch	Notch Signaling	Delta/Serrate/LAG-2 (DSL) family
+DLL3	Cell-Cell Contact	Developmental	Notch	Notch Signaling	Delta/Serrate/LAG-2 (DSL) family
+DLL4	Cell-Cell Contact	Developmental	Notch	Notch Signaling	Delta/Serrate/LAG-2 (DSL) family
+JAG1	Cell-Cell Contact	Developmental	Notch	Notch Signaling	Delta/Serrate/LAG-2 (DSL) family
+JAG2	Cell-Cell Contact	Developmental	Notch	Notch Signaling	Delta/Serrate/LAG-2 (DSL) family
+DLK1	Cell-Cell Contact	Developmental	Notch	Notch Signaling	Notch/Delta/Serrate/LAG-2 (DSL) Family
+PROS1	Secreted Signaling	Other	Other	Coagulation factor	Vitamin K-dependent Protein Family
+CLCF1	Secreted Signaling	Growth Factors & Cytokines	Other Cytokines	Other Cytokines	IL-6 Family
+CNTF	Secreted Signaling	Growth Factors & Cytokines	Other Cytokines	Other Cytokines	IL-6 Family
+CTF1	Secreted Signaling	Growth Factors & Cytokines	Other Cytokines	Other Cytokines	IL-6 Family
+LIF	Secreted Signaling	Growth Factors & Cytokines	Other Cytokines	Other Cytokines	IL-6 Family
+OSM	Secreted Signaling	Growth Factors & Cytokines	Other Cytokines	Other Cytokines	IL-6 Family
+TSLP	Secreted Signaling	Growth Factors & Cytokines	Other Cytokines	Other Cytokines	Other Interleukins
+LEP	Secreted Signaling	Growth Factors & Cytokines	Other Cytokines	Other Cytokines	Leptin family
+ADIPOQ	Secreted Signaling	Growth Factors & Cytokines	Other Cytokines	Other Cytokines	Adipokine Family
+MIF	Secreted Signaling	Growth Factors & Cytokines	Other Cytokines	Other Cytokines	MIF family
+SCGB3A2	Secreted Signaling	Growth Factors & Cytokines	Other Cytokines	Other Cytokines	Secretoglobin family
+SLURP1	Secreted Signaling	Growth Factors & Cytokines	Other Cytokines	Other Cytokines	Ly6/uPAR family
+SLURP2	Secreted Signaling	Growth Factors & Cytokines	Other Cytokines	Other Cytokines	Ly6/uPAR family
+GAS6	Secreted Signaling	Growth Factors & Cytokines	Other GFs	Other Growth Factors	Vitamin K-dependent proteins
+GRN	Secreted Signaling	Growth Factors & Cytokines	Other GFs	Other Growth Factors	Granulin
+HGF	Secreted Signaling	Growth Factors & Cytokines	Other GFs	Other Growth Factors	Hepatocyte growth factor family
+KITLG	Secreted Signaling	Growth Factors & Cytokines	Other GFs	Other Growth Factors	Stem cell factor
+MDK	Secreted Signaling	Growth Factors & Cytokines	Other GFs	Other Growth Factors	Midkine
+PROK1	Secreted Signaling	Growth Factors & Cytokines	Other GFs	Other Growth Factors	Prokineticin
+PTN	Secreted Signaling	Growth Factors & Cytokines	Other GFs	Other Growth Factors	Pleiotrophin
+CD209	Cell-Cell Contact	CAM	Other_CAM	Other Cell Adhesion Proteins	-
+PVR	Cell-Cell Contact	CAM	Other_CAM	Other Cell Adhesion Proteins	Nectin Family
+SIGLEC1	Cell-Cell Contact	CAM	Other_CAM	Other Cell Adhesion Proteins	SIGLEC Family
+NFASC	Cell-Cell Contact	CAM	Other_CAM	Other Cell Adhesion Proteins	Ig Superfamily
+CSPG4	Cell-Cell Contact	CAM	Other_CAM	Other Cell Adhesion Proteins	Proteoglycan Family
+ADGRE5	Cell-Cell Contact	CAM	Other_CAM	Other Cell Adhesion Proteins	-
+ALCAM	Cell-Cell Contact	CAM	Other_CAM	Other Cell Adhesion Proteins	-
+APP	Cell-Cell Contact	CAM	Other_CAM	Other Cell Adhesion Proteins	-
+CADM1	Cell-Cell Contact	CAM	Other_CAM	Other Cell Adhesion Proteins	-
+CADM3	Cell-Cell Contact	CAM	Other_CAM	Other Cell Adhesion Proteins	-
+CD226	Cell-Cell Contact	CAM	Other_CAM	Other Cell Adhesion Proteins	-
+CD34	Cell-Cell Contact	CAM	Other_CAM	Other Cell Adhesion Proteins	-
+CD96	Cell-Cell Contact	CAM	Other_CAM	Other Cell Adhesion Proteins	-
+CD99	Cell-Cell Contact	CAM	Other_CAM	Other Cell Adhesion Proteins	-
+GP1BA	Cell-Cell Contact	CAM	Other_CAM	Other Cell Adhesion Proteins	-
+F11R	Cell-Cell Contact	CAM	Other_CAM	Other Cell Adhesion Proteins	-
+MADCAM1	Cell-Cell Contact	CAM	Other_CAM	Other Cell Adhesion Proteins	-
+MPZ	Cell-Cell Contact	CAM	Other_CAM	Other Cell Adhesion Proteins	-
+MPZL1	Cell-Cell Contact	CAM	Other_CAM	Other Cell Adhesion Proteins	-
+NECTIN1	Cell-Cell Contact	CAM	Other_CAM	Other Cell Adhesion Proteins	Nectin Family
+NECTIN3	Cell-Cell Contact	CAM	Other_CAM	Other Cell Adhesion Proteins	Nectin Family
+NECTIN2	Cell-Cell Contact	CAM	Other_CAM	Other Cell Adhesion Proteins	Nectin Family
+NEGR1	Cell-Cell Contact	CAM	Other_CAM	Other Cell Adhesion Proteins	-
+LRRC4C	Cell-Cell Contact	CAM	Other_CAM	Other Cell Adhesion Proteins	-
+LRRC4	Cell-Cell Contact	CAM	Other_CAM	Other Cell Adhesion Proteins	-
+LRRC4B	Cell-Cell Contact	CAM	Other_CAM	Other Cell Adhesion Proteins	-
+PECAM1	Cell-Cell Contact	CAM	Other_CAM	Other Cell Adhesion Proteins	-
+THY1	Cell-Cell Contact	CAM	Other_CAM	Other Cell Adhesion Proteins	-
+MAG	Cell-Cell Contact	Developmental	Other_Developmental	Other	SIGLEC Family
+THBS4	ECM-Receptor	ECM	Other_ECM	Other ECM proteins	Integrins
+FN1	ECM-Receptor	ECM	Other_ECM	Other ECM proteins	Fibronectin Family
+THBS3	ECM-Receptor	ECM	Other_ECM	Other ECM proteins	Thrombospondins Family
+COMP	ECM-Receptor	ECM	Other_ECM	Other ECM proteins	Thrombospondins Family
+VTN	ECM-Receptor	ECM	Other_ECM	Other ECM proteins	Vitronectin Family
+TNXB	ECM-Receptor	ECM	Other_ECM	Other ECM proteins	Tenascin Family
+Npnt complex 1	ECM-Receptor	ECM	Other_ECM	Other ECM proteins	Nephronectin Family
+Npnt complex 2	ECM-Receptor	ECM	Other_ECM	Other ECM proteins	Nephronectin Family
+DSPP	ECM-Receptor	ECM	Other_ECM	Other ECM proteins	Dentin Sialophosphoprotein Family
+VWF	ECM-Receptor	ECM	Other_ECM	Other ECM proteins	Von Willebrand Factor Family
+IBSP	ECM-Receptor	ECM	Other_ECM	Other ECM proteins	Integrin-binding Sialoprotein Family
+DMP1	ECM-Receptor	ECM	Other_ECM	Other ECM proteins	Dentin Matrix Acidic Phosphoprotein Family
+AGRN	ECM-Receptor	ECM	Other_ECM	Other ECM proteins	Agrin Family
+HSPG2	ECM-Receptor	ECM	Other_ECM	Other ECM proteins	Heparan Sulfate Proteoglycan Family
+RELN	ECM-Receptor	ECM	Other_ECM	Other ECM proteins	Reelin Family
+ENTPD1	Cell-Cell Contact	Enzymatic	Other_Enzymatic	Ectonucleotidase	Ectonucleotidase family.
+NAMPT	Secreted Signaling	Enzymatic	Other_Enzymatic	Nicotinamide Phosphoribosyltransferase	Nicotinamide Phosphoribosyltransferase Family
+PSAP	Secreted Signaling	Enzymatic	Other_Enzymatic	Sphingolipid Modulator	Saposin Family
+PDGFA	Secreted Signaling	Growth Factors & Cytokines	Platelet-derived GFs	Platelet-derived Growth Factors	Platelet-derived growth factor (PDGF)
+PDGFB	Secreted Signaling	Growth Factors & Cytokines	Platelet-derived GFs	Platelet-derived Growth Factors	Platelet-derived growth factor (PDGF)
+PDGFC	Secreted Signaling	Growth Factors & Cytokines	Platelet-derived GFs	Platelet-derived Growth Factors	Platelet-derived growth factor (PDGF)
+PDGFD	Secreted Signaling	Growth Factors & Cytokines	Platelet-derived GFs	Platelet-derived Growth Factors	Platelet-derived growth factor (PDGF)
+SELE	Cell-Cell Contact	CAM	Selectins	Selectins	Selectin Family
+SELL	Cell-Cell Contact	CAM	Selectins	Selectins	Selectin Family
+SELPLG	Cell-Cell Contact	CAM	Selectins	Hormone like (Gut)	Selectin Family
+SEMA3A	Secreted Signaling	Developmental	Semaphorins	Semaphorins	Semaphorin Family
+SEMA3B	Secreted Signaling	Developmental	Semaphorins	Semaphorins	Semaphorin Family
+SEMA3C	Secreted Signaling	Developmental	Semaphorins	Semaphorins	Semaphorin Family
+SEMA3D	Secreted Signaling	Developmental	Semaphorins	Semaphorins	Semaphorin Family
+SEMA3E	Secreted Signaling	Developmental	Semaphorins	Semaphorins	Semaphorin Family
+SEMA3F	Secreted Signaling	Developmental	Semaphorins	Semaphorins	Semaphorin Family
+SEMA3G	Secreted Signaling	Developmental	Semaphorins	Semaphorins	Semaphorin Family
+SEMA4A	Cell-Cell Contact	Developmental	Semaphorins	Semaphorins	Semaphorins
+SEMA4D	Cell-Cell Contact	Developmental	Semaphorins	Semaphorins	Semaphorins
+SEMA4C	Cell-Cell Contact	Developmental	Semaphorins	Semaphorins	Semaphorins
+SEMA4G	Cell-Cell Contact	Developmental	Semaphorins	Semaphorins	Semaphorins
+SEMA5A	Cell-Cell Contact	Developmental	Semaphorins	Semaphorins	Semaphorins
+SEMA5B	Cell-Cell Contact	Developmental	Semaphorins	Semaphorins	Semaphorins
+SEMA6D	Cell-Cell Contact	Developmental	Semaphorins	Semaphorins	Semaphorins
+SEMA6A	Cell-Cell Contact	Developmental	Semaphorins	Semaphorins	Semaphorins
+SEMA6B	Cell-Cell Contact	Developmental	Semaphorins	Semaphorins	Semaphorins
+SEMA7A	Cell-Cell Contact	Developmental	Semaphorins	Semaphorins	Semaphorins
+CTSG	Secreted Signaling	Enzymatic	Serine Protease	Serine Protease	Cathepsin G Family
+F2	Secreted Signaling	Enzymatic	Serine Protease	Serine Protease	Thrombin Family
+GZMA	Secreted Signaling	Enzymatic	Serine Protease	Serine Protease	Granzyme Family
+KLK3	Secreted Signaling	Enzymatic	Serine Protease	Serine Protease	Kallikrein Family
+PLG	Secreted Signaling	Enzymatic	Serine Protease	Serine Protease	Plasminogen Family
+PRSS1	Secreted Signaling	Enzymatic	Serine Protease	Serine Protease	Trypsin Family
+PRSS2	Secreted Signaling	Enzymatic	Serine Protease	Serine Protease	Trypsin Family
+PRSS3	Secreted Signaling	Enzymatic	Serine Protease	Serine Protease	Trypsin Family
+Activin AB	Secreted Signaling	Growth Factors & Cytokines	TGFB_s	TGFBBeta Superfamily	Activin/Inhibin Family
+AMH	Secreted Signaling	Growth Factors & Cytokines	TGFB_s	TGFBBeta Superfamily	AMH Family
+BMP2	Secreted Signaling	Growth Factors & Cytokines	TGFB_s	TGFBBeta Superfamily	BMP Family
+BMP5	Secreted Signaling	Growth Factors & Cytokines	TGFB_s	TGFBBeta Superfamily	BMP Family
+BMP6	Secreted Signaling	Growth Factors & Cytokines	TGFB_s	TGFBBeta Superfamily	BMP Family
+BMP7	Secreted Signaling	Growth Factors & Cytokines	TGFB_s	TGFBBeta Superfamily	BMP Family
+GDF1	Secreted Signaling	Growth Factors & Cytokines	TGFB_s	TGFBBeta Superfamily	GDF Subfamily
+GDF10	Secreted Signaling	Growth Factors & Cytokines	TGFB_s	TGFBBeta Superfamily	GDF Subfamily
+GDF11	Secreted Signaling	Growth Factors & Cytokines	TGFB_s	TGFBBeta Superfamily	GDF Subfamily
+GDF15	Secreted Signaling	Growth Factors & Cytokines	TGFB_s	TGFBBeta Superfamily	GDF Subfamily
+GDF2	Secreted Signaling	Growth Factors & Cytokines	TGFB_s	TGFBBeta Superfamily	GDF Subfamily
+GDF3	Secreted Signaling	Growth Factors & Cytokines	TGFB_s	TGFBBeta Superfamily	GDF Subfamily
+GDF5	Secreted Signaling	Growth Factors & Cytokines	TGFB_s	TGFBBeta Superfamily	GDF Subfamily
+GDF6	Secreted Signaling	Growth Factors & Cytokines	TGFB_s	TGFBBeta Superfamily	GDF Subfamily
+GDF7	Secreted Signaling	Growth Factors & Cytokines	TGFB_s	TGFBBeta Superfamily	GDF Subfamily
+GDF9	Secreted Signaling	Growth Factors & Cytokines	TGFB_s	TGFBBeta Superfamily	GDF Subfamily
+INHBA	Secreted Signaling	Growth Factors & Cytokines	TGFB_s	TGFBBeta Superfamily	Activin/Inhibin Family
+INHBB	Secreted Signaling	Growth Factors & Cytokines	TGFB_s	TGFBBeta Superfamily	Activin/Inhibin Family
+INHBC	Secreted Signaling	Growth Factors & Cytokines	TGFB_s	TGFBBeta Superfamily	Activin/Inhibin Family
+INHBE	Secreted Signaling	Growth Factors & Cytokines	TGFB_s	TGFBBeta Superfamily	Activin/Inhibin Family
+Inhibin A	Secreted Signaling	Growth Factors & Cytokines	TGFB_s	TGFBBeta Superfamily	Activin/Inhibin Family
+Inhibin B	Secreted Signaling	Growth Factors & Cytokines	TGFB_s	TGFBBeta Superfamily	Activin/Inhibin Family
+MSTN	Secreted Signaling	Growth Factors & Cytokines	TGFB_s	TGFBBeta Superfamily	MSTN Family
+NODAL	Secreted Signaling	Growth Factors & Cytokines	TGFB_s	TGFBBeta Superfamily	Nodal Family
+TGFB1	Secreted Signaling	Growth Factors & Cytokines	TGFB_s	TGFBBeta Superfamily	TGFBBeta Family
+TGFB2	Secreted Signaling	Growth Factors & Cytokines	TGFB_s	TGFBBeta Superfamily	TGFBBeta Family
+TGFB3	Secreted Signaling	Growth Factors & Cytokines	TGFB_s	TGFBBeta Superfamily	TGFBBeta Family
+CLDN11	Cell-Cell Contact	CAM	Tight Junction	Tight Junction Proteins	Claudin Family
+OCLN	Cell-Cell Contact	CAM	Tight Junction	Tight Junction Proteins	-
+CD40LG	Secreted Signaling	Growth Factors & Cytokines	TNFs	TNF Superfamily	TNF Ligand Family
+CD70	Secreted Signaling	Growth Factors & Cytokines	TNFs	TNF Superfamily	TNF Ligand Family
+EDA	Secreted Signaling	Growth Factors & Cytokines	TNFs	TNF Superfamily	TNF Ligand Family
+FASLG	Secreted Signaling	Growth Factors & Cytokines	TNFs	TNF Superfamily	TNF Ligand Family
+TNFSF13	Secreted Signaling	Growth Factors & Cytokines	TNFs	TNF Superfamily	APRIL/TWE-PRIL Family
+TNFSF13B	Secreted Signaling	Growth Factors & Cytokines	TNFs	TNF Superfamily	BAFF Family
+TNFSF18	Secreted Signaling	Growth Factors & Cytokines	TNFs	TNF Superfamily	TNF Ligand Family
+TNFSF8	Secreted Signaling	Growth Factors & Cytokines	TNFs	TNF Superfamily	TNF Ligand Family
+TNFSF9	Secreted Signaling	Growth Factors & Cytokines	TNFs	TNF Superfamily	TNF Ligand Family
+LTA	Secreted Signaling	Growth Factors & Cytokines	TNFs	TNF Superfamily	TNF Ligand Family
+LTa1b2	Secreted Signaling	Growth Factors & Cytokines	TNFs	TNF Superfamily	TNF Ligand Family
+TNF	Secreted Signaling	Growth Factors & Cytokines	TNFs	TNF Superfamily	TNF Ligand Family
+TNFSF10	Secreted Signaling	Growth Factors & Cytokines	TNFs	TNF Superfamily	TNF Ligand Family
+TNFSF11	Secreted Signaling	Growth Factors & Cytokines	TNFs	TNF Superfamily	TNF Ligand Family
+TNFSF12	Secreted Signaling	Growth Factors & Cytokines	TNFs	TNF Superfamily	TNF Ligand Family
+TNFSF14	Secreted Signaling	Growth Factors & Cytokines	TNFs	TNF Superfamily	TNF Ligand Family
+TNFSF15	Secreted Signaling	Growth Factors & Cytokines	TNFs	TNF Superfamily	TNF Ligand Family
+TNFSF4	Secreted Signaling	Growth Factors & Cytokines	TNFs	TNF Superfamily	TNF Ligand Family
+PGF	Secreted Signaling	Growth Factors & Cytokines	VEGFs	Vascular Endothelial Growth Factors	Placental Growth Factor Family
+VEGFA	Secreted Signaling	Growth Factors & Cytokines	VEGFs	Vascular Endothelial Growth Factors	VEGF Family
+VEGFB	Secreted Signaling	Growth Factors & Cytokines	VEGFs	Vascular Endothelial Growth Factors	VEGF Family
+VEGFC	Secreted Signaling	Growth Factors & Cytokines	VEGFs	Vascular Endothelial Growth Factors	VEGF Family
+VEGFD	Secreted Signaling	Growth Factors & Cytokines	VEGFs	Vascular Endothelial Growth Factors	VEGF Family
+WNT1	Secreted Signaling	Developmental	WNT	WNT Signaling	WNT Family
+WNT10A	Secreted Signaling	Developmental	WNT	WNT Signaling	WNT Family
+WNT10B	Secreted Signaling	Developmental	WNT	WNT Signaling	WNT Family
+WNT11	Secreted Signaling	Developmental	WNT	WNT Signaling	WNT Family
+WNT16	Secreted Signaling	Developmental	WNT	WNT Signaling	WNT Family
+WNT2	Secreted Signaling	Developmental	WNT	WNT Signaling	WNT Family
+WNT2B	Secreted Signaling	Developmental	WNT	WNT Signaling	WNT Family
+WNT3	Secreted Signaling	Developmental	WNT	WNT Signaling	WNT Family
+WNT3A	Secreted Signaling	Developmental	WNT	WNT Signaling	WNT Family
+WNT4	Secreted Signaling	Developmental	WNT	WNT Signaling	WNT Family
+WNT5A	Secreted Signaling	Developmental	WNT	WNT Signaling	WNT Family
+WNT5B	Secreted Signaling	Developmental	WNT	WNT Signaling	WNT Family
+WNT6	Secreted Signaling	Developmental	WNT	WNT Signaling	WNT Family
+WNT7A	Secreted Signaling	Developmental	WNT	WNT Signaling	WNT Family
+WNT7B	Secreted Signaling	Developmental	WNT	WNT Signaling	WNT Family
+WNT8A	Secreted Signaling	Developmental	WNT	WNT Signaling	WNT Family
+WNT8B	Secreted Signaling	Developmental	WNT	WNT Signaling	WNT Family
+WNT9A	Secreted Signaling	Developmental	WNT	WNT Signaling	WNT Family
+WNT9B	Secreted Signaling	Developmental	WNT	WNT Signaling	WNT Family
