@@ -16,10 +16,10 @@ Here contains all information pertaining to data processing prior to clustering 
     
 ### step 2: create window-based matrices and remove multiplets
 - snATAC_pipeline_10X.py 
-  - sample command: `for SAMPLE in $(seq 339 342); do {path_to_script)/snATAC_pipeline_10X.py -b {path_to_cellranger_output}/${sample}/outs/atac_possorted_bam.bam -o ${sample} -n ${sample} -t 24 -m 2 --minimum-reads 1000`
+  - sample command: `for SAMPLE in $(seq 339 342); do scripts/snATAC_pipeline_10X.py -b {path_to_cellranger_output}/${sample}/outs/atac_possorted_bam.bam -o ${sample} -n ${sample} -t 24 -m 2 --minimum-reads 1000`
 
 - clean_barcode_multiplets_1.1.py
-  - `for SAMPLE in $(seq 339 345); do python2 {path_to_script}/clean_barcode_multiplets_1.1.py {path_to_cellranger_output}/MM_${SAMPLE}/outs --prefix MM_${SAMPLE}; done`
+  - `for SAMPLE in $(seq 339 345); do python2 scripts/clean_barcode_multiplets_1.1.py {path_to_cellranger_output}/MM_${SAMPLE}/outs --prefix MM_${SAMPLE}; done`
 
 # Multiome data
 ### step 1: cellranger arc
@@ -30,4 +30,4 @@ Here contains all information pertaining to data processing prior to clustering 
 
 ### step 2: create window-based matrices 
 - snATAC_pipeline_10X.py 
-  - sample command: `for SAMPLE in $(seq 339 342); do {path_to_script)/snATAC_pipeline_10X.py -b {path_to_cellranger_output}/${sample}/outs/atac_possorted_bam.bam -o ${sample} -n ${sample} -t 24 -m 2 --minimum-reads 1000`
+  - sample command: `for SAMPLE in $(seq 339 342); do scripts/snATAC_pipeline_10X.py -b {path_to_cellranger_output}/${sample}/outs/atac_possorted_bam.bam -o ${sample} -n ${sample} -t 24 -m 2 --minimum-reads 1000`
