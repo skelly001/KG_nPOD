@@ -36,4 +36,4 @@ This document contains all information regarding initial individual sample QC fi
   - clustering:`Data_proccessing/snATAC_03_mergeATACobj.ipynb`
   - Peak calling [github repo](https://github.com/Gaulton-Lab/peak-call-pipeline)
   - Manual doublet removal and repeat clustering performed in `Data_proccessing/snATAC_04_manualDoubletRemoval_PromAccess.ipynb`
-  - label transfer: `/nfs/lab/rlmelton/npod/notebooks/sherlock/snATAC_pipelineNotebooks/snATAC_05_labelTransfer_github.ipynb`
+  - label transfer: `Data_proccessing/snATAC_05_labelTransfer_github.ipynb`
